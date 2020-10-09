@@ -32,7 +32,7 @@
 <a href="https://fb.com/mekkyinblack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mekkyinblack" height="30" width="40" /></a>
 <a href="https://instagram.com/mekkydigret" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mekkydigret" height="30" width="40" /></a>
 <a href="https://medium.com/@manlupigjohnmichael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@manlupigjohnmichael" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avidian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="avidian" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UClXKD7pBz9vx-I3cE-QLxIw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="avidian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
