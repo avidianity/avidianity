@@ -7,4 +7,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avidianity&layout=compact" alt="avidianity" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avidianity&show_icons=true" alt="avidianity" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=avidianity&show_icons=true" alt="avidianity" /></p>
